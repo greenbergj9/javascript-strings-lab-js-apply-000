@@ -154,5 +154,6 @@ Good luck!
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/javascript-strings-lab'>JavaScript Strings Lab</a> on Learn.co and start learning to code for free.</p>
 
-learn
+
+
 
